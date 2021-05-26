@@ -1,0 +1,2 @@
+# AmazonScraper
+AmazonScraper without API
